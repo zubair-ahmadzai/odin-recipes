@@ -1,1 +1,1 @@
-Basic HTML website that contains multiple recipes on separate web pages.
+Basic HTML website that contains recipes on separate web pages and a list on the homepage with links to them.
